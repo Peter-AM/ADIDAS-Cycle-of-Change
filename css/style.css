@@ -1361,6 +1361,30 @@ input{
 
 }
 	
+	#fb{
+	
+	transform: scale(0.5);
+	margin: 5px 0 5px 0;
+	
+	
+}
+	
+	#insta{
+	
+	
+	transform: scale(0.5);
+	margin: 5px 0 5px 0;
+	
+}
+	
+	#twitt{
+	
+
+	transform: scale(0.5);
+	margin: 5px 0 5px 0;
+	
+}
+	
 	#container{
 	
 	left: 0%;	
